@@ -3,9 +3,8 @@
 
 - 🌱 I’m currently learning **coding at 4Geeks Academy :computer:**
 
-- 📫 How to reach me **https://www.linkedin.com/**
 
-- ⚡ Hobbies **I love to travel and learn from other cultures, also a very passionate surf person**
+- ⚡ As hobbies **I love to travel and learn from other cultures, also a very passionate surf person**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
