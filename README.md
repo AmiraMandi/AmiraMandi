@@ -1,5 +1,7 @@
 <h1 align="center">Hey 👋, I'm Amira</h1>
+
 <h3 align="center">Full Stack Developer in process ⌛</h3>
+
 
 - 🌱 I’m currently learning **coding at 4Geeks Academy :computer:**
 
